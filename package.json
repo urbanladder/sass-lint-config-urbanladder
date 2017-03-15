@@ -1,0 +1,30 @@
+{
+  "name": "sass-lint-config-urbanladder",
+  "version": "0.1.0",
+  "description": "scss and sass code style used",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urbanladder/sass-lint-config-urbanladder.git"
+  },
+  "keywords": [
+    "sass-lint",
+    "sass-lint-config",
+    "urbanladder"
+  ],
+  "author": "Aruna Jyothi Vajje (aruna.577@gmail.com)",
+  "license": "MIT",
+  "peerDependencies": {
+    "sass-lint": "^1.10.2"
+  },
+  "bugs": {
+    "url": "https://github.com/urbanladder/sass-lint-config-urbanladder/issues"
+  },
+  "homepage": "https://github.com/urbanladder/sass-lint-config-urbanladder#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
