@@ -1,6 +1,6 @@
 # sass-lint config
 
-This package provides Urban Ladder's `.sass-lint` as an extensible shared config.
+This package provides Urban Ladder's `sass-lint` as an extensible shared config.
 
 
 ## Installing
@@ -16,7 +16,7 @@ To use the sass-lint style config, add this to your .sass-lint file:
 
 ```
 options:
-  config-file: node_modules/sass-lint-config-urbanladder/.sass-lint.yml
+  config-file: node_modules/sass-lint-config-urbanladder/sass-lint.yml
 ```
 
 You can override settings from the shareable config by adding them directly into your

@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "description": "scss and sass code style used",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
+  "files": [
+    "sass-lint.yml"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/urbanladder/sass-lint-config-urbanladder.git"
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/urbanladder/sass-lint-config-urbanladder#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   }
 }
