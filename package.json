@@ -1,6 +1,6 @@
 {
   "name": "sass-lint-config-urbanladder",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "scss and sass code style used",
   "main": "index.js",
   "files": [
