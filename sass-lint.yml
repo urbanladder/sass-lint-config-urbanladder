@@ -79,6 +79,8 @@ rules:
         - s
         - vw
         - vh
+        - em
+        - rem
       per-property:
         border:
           - px
