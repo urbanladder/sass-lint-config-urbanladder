@@ -86,6 +86,9 @@ rules:
         margin:
           - em
           - rem
+        padding:
+          - em
+          - rem
   quotes:
     - 2
     - style: single
