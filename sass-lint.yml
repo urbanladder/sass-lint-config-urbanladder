@@ -86,9 +86,13 @@ rules:
           - px
         line-height: []
         margin:
+          - vw
+          - vh
           - em
           - rem
         padding:
+          - vw
+          - vh
           - em
           - rem
   quotes:
